@@ -6,6 +6,8 @@
 int main()
 {
     std::cout << "Hello VisualStudioGit!\n";
+
+    std::cout << "新規ブランチでこの行を追加\n";
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
